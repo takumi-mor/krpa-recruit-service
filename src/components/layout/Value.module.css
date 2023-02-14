@@ -1,0 +1,47 @@
+.bg {
+  width: 100vw;
+  height: 100vh;
+}
+.h3 {
+  margin-top: 15vh;
+  font-size: 40px;
+  font-weight: 700;
+  justify-content: center;
+  text-align: center;
+}
+.color {
+  color: #fe5b00;
+}
+.firstFilter {
+  width: 70vw;
+  height: 100%;
+  background: #fff;
+  filter: drop-shadow(0px 0px 4px rgba(0, 0, 0, 0.5));
+  border-radius: 8px;
+  margin: 0 auto;
+  margin-top: 12vh;
+}
+.filter {
+  width: 70vw;
+  height: 100%;
+  background: #fff;
+  filter: drop-shadow(0px 0px 4px rgba(0, 0, 0, 0.5));
+  border-radius: 8px;
+  margin: 0 auto;
+  margin-top: 4vh;
+}
+.p {
+  width: 70vw;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 96px;
+  text-align: center;
+  justify-content: center;
+}
+.lastState {
+  margin-top: 12vh;
+  font-size: 40px;
+  font-weight: 700;
+  justify-content: center;
+  text-align: center;
+}

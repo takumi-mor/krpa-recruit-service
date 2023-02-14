@@ -1,0 +1,64 @@
+.bg {
+  width: 100vw;
+  height: 88vh;
+}
+.firstText {
+  margin-top: 12vh;
+  text-align: center;
+  font-size: 40px;
+}
+.trHeader {
+  display: flex;
+  margin-top: 6vh;
+  margin-left: 12.5vw;
+  width: 75vw;
+  height: 8vh;
+  border-bottom: 2px solid #000;
+}
+.header {
+  padding-top: 1vh;
+  width: 15vw;
+  height: 8vh;
+  font-size: 24px;
+  font-weight: 700;
+}
+.header p {
+  justify-content: center;
+  text-align: center;
+}
+.tbody {
+  display: flex;
+  margin-top: 2vh;
+  margin-left: 12.5vw;
+  width: 75vw;
+  height: 8vh;
+}
+.content {
+  margin: 0 auto;
+  width: 15vw;
+  height: 12vh;
+  font-size: 24px;
+  font-weight: 700;
+  justify-content: center;
+  text-align: center;
+  line-height: 12vh;
+}
+.longContent {
+  margin: 0 auto;
+  width: 15vw;
+  height: 12vh;
+  font-size: 24px;
+  font-weight: 700;
+  justify-content: center;
+  text-align: center;
+}
+
+.section {
+  width: 15vw;
+  height: 48vh;
+  border-radius: 16px;
+}
+.orangeBackground {
+  background: #ff8642;
+  color: #fff;
+}
