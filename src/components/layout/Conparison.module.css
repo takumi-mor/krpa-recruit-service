@@ -62,3 +62,44 @@
   background: #ff8642;
   color: #fff;
 }
+
+@media screen and (max-width: 390px) {
+  .firstText {
+    font-size: 28px;
+  }
+  .table {
+    width: auto;
+    height: auto;
+    overflow-x: scroll;
+    height: 100vh;
+  }
+  .trHeader {
+    width: auto;
+    display: inline-flex;
+  }
+  .header {
+    width: 60vw;
+    font-size: 20px;
+  }
+  .section {
+    margin-top: 2vh;
+    margin-left: 15vw;
+    width: auto;
+    height: 48vh;
+  }
+  .content {
+    width: 40vw;
+    font-size: 16px;
+  }
+  .tbody {
+    width: auto;
+  }
+  .orangeBackground {
+    background: #ff8642;
+    color: #fff;
+  }
+  .longContent {
+    font-size: 16px;
+    width: 40vw;
+  }
+}

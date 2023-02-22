@@ -27,3 +27,22 @@
   font-weight: 700;
   font-size: 24px;
 }
+
+@media screen and (max-width: 390px) {
+  .bg {
+    height: 100px;
+  }
+
+  .btn {
+    width: 50%;
+    height: 50px;
+    border-radius: 25px;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+
+  .text {
+    line-height: 50px;
+    font-size: 16px;
+  }
+}

@@ -13,3 +13,15 @@
   font-weight: 700;
   color: #fff;
 }
+
+@media screen and (max-width: 390px) {
+  .text h1 {
+    font-size: 36px;
+    line-height: 1.2;
+    margin: 0 5%;
+  }
+
+  .text {
+    padding-top: 20vh;
+  }
+}

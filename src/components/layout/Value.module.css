@@ -45,3 +45,41 @@
   justify-content: center;
   text-align: center;
 }
+
+@media screen and (max-width: 390px) {
+  .bg {
+    height: auto;
+  }
+  .h3 {
+    margin-top: 10vh;
+    font-size: 24px;
+  }
+  .firstFilter,
+  .filter {
+    width: 90vw !important;
+    margin-top: 8vh;
+  }
+  .filter {
+    width: 90vw !important;
+    margin-top: 2vh;
+  }
+  .p {
+    width: 90%;
+    font-size: 20px;
+    line-height: normal;
+    padding: 6% 4%;
+    text-align: left;
+  }
+  .contents {
+    margin-bottom: 8vh;
+  }
+  .lastState {
+    margin-top: 8vh;
+    font-size: 24px;
+    width: 90vw;
+    margin: 0 auto;
+    margin-bottom: 4vh;
+    justify-content: left;
+    text-align: left;
+  }
+}

@@ -10,7 +10,7 @@ const Value = () => {
             他社よりも <span className={classes.color}>高い成約率</span>
             を実現！
           </h3>
-          <div>
+          <div className={classes.contents}>
             <div className={classes.firstFilter}>
               <p className={classes.p}>
                 貴社の求めている職種や、人材について詳しくヒアリング
